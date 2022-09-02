@@ -1,2 +1,2 @@
-web: python YOURSCRIPTNAME.py
-worker: python YOURSCRIPTNAME.py 
+web: python data_lookup.py
+worker: python data_lookup.py
